@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Kadosh Consultoria SST</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- Fonte profissional -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="header">
+    <div class="logo">
+        <img src="images/logo.png" alt="Kadosh Consultoria SST">
+    </div>
+
+    <nav class="menu">
+        <a href="#sobre">Sobre</a>
+        <a href="#servicos">Serviços</a>
+        <a href="#cursos">Cursos</a>
+        <a href="#clientes">Clientes</a>
+        <a href="#contato">Contato</a>
+    </nav>
+</header>
+
+<!-- HERO -->
+<section class="hero">
+    <div class="hero-overlay"></div>
+
+    <div class="hero-content">
+        <h1>
+            Gestão estratégica em<br>
+            Segurança e Saúde do Trabalho
+        </h1>
+
+        <p>
+            Atendemos empresas de médio e grande porte com foco em conformidade legal,
+            prevenção de riscos, redução de passivos trabalhistas e suporte completo
+            em fiscalizações.
+        </p>
+
+        <a href="https://wa.me/5562996562738" class="btn-hero">
+            Fale com nossos especialistas
+        </a>
+    </div>
+</section>
+
+<!-- SOBRE -->
+<section class="section" id="sobre">
+    <h2>Sobre a Kadosh</h2>
+    <p>
+        A Kadosh Consultoria atua de forma estratégica na gestão de Segurança e Saúde
+        do Trabalho, oferecendo soluções completas, técnicas e alinhadas às exigências
+        legais para empresas que buscam excelência operacional e segurança jurídica.
+    </p>
+</section>
+
+<!-- SERVIÇOS -->
+<section class="section bg-light" id="servicos">
+    <h2>Serviços</h2>
+
+    <ul class="list">
+        <li>Gestão de SST</li>
+        <li>Elaboração de PGR, PCMSO e LTCAT</li>
+        <li>eSocial SST</li>
+        <li>Auditorias e adequações legais</li>
+        <li>Assessoria em fiscalizações</li>
+        <li>Laudos técnicos e perícias</li>
+    </ul>
+</section>
+
+<!-- CURSOS -->
+<section class="section" id="cursos">
+    <h2>Cursos e Treinamentos</h2>
+
+    <ul class="list">
+        <li>NR-01 a NR-35</li>
+        <li>Treinamento de CIPA</li>
+        <li>Primeiros Socorros</li>
+        <li>Brigada de Incêndio</li>
+        <li>Trabalho em Altura</li>
+        <li>Espaço Confinado</li>
+    </ul>
+</section>
+
+<!-- CLIENTES -->
+<section class="section bg-light" id="clientes">
+    <h2>Clientes Atendidos</h2>
+
+    <p>Empresas que confiam na Kadosh Consultoria SST</p>
+
+    <div class="clientes-img">
+        <img src="images/clientes.png" alt="Clientes Kadosh">
+    </div>
+</section>
+
+<!-- CONTATO -->
+<section class="section" id="contato">
+    <h2>Contato</h2>
+
+    <p><strong>Email:</strong> kadoshconsultoriasst@gmail.com</p>
+    <p><strong>Telefone:</strong> (62) 9 9656-2738</p>
+    <p><strong>Instagram:</strong> @kadoshconsultoriasst</p>
+</section>
+
+<!-- WHATSAPP FIXO -->
+<a href="https://wa.me/5562996562738" class="whatsapp-fixo">
+    💬 Fale com a Kadosh
+</a>
+
+</body>
+</html>
